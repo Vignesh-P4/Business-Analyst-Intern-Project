@@ -59,8 +59,8 @@ Vignesh Pobbathi
 Business Analyst Intern | Data Analytics Enthusiast
 📍 Hyderabad, India
 📧 vigneshpobbathi@gmail.com
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn - https://www.linkedin.com/in/vigneshpobbathi/
+💻 GitHub - https://github.com/Vignesh-P4
 ________________________________________
 Feel free to fork this repo, explore the dashboards, and connect with me for collaborations or feedback!
 
